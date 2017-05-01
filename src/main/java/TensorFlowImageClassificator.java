@@ -36,13 +36,12 @@ public class TensorFlowImageClassificator {
         String labelingResult = new String();
 
         if (labelProbabilities != null) {
-            int numOfMaxs = 5;
-            int[] topHitsIndices = indexesOfTopElements(labelProbabilities, numOfMaxs);
+            int[] topHitsIndices = indexesOfTopElements(labelProbabilities, labelsCount);
             for (int i : topHitsIndices) {
                 System.out.println(
                         String.format(
                                 "TOP %d BEST MATCHES: %s (%.2f%% likely)",
-                                numOfMaxs, labels.get(i), labelProbabilities[i] * 100f));
+                                labelsCount, labels.get(i), labelProbabilities[i] * 100f));
                 labelingResult = labelingResult.isEmpty() ? labelingResult : labelingResult.concat(", ");
                 labelingResult = labelingResult.concat(labels.get(i));
             }
