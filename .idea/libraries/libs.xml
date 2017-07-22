@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/gitSpace/propeller/propeller/src/main/resources/libs/tensorflow-sources.jar!/" />
+      <root url="jar://$USER_HOME$/gitSpace/propeller/propeller/src/main/resources/libs/caffe-sources.jar!/" />
+      <root url="jar://$USER_HOME$/gitSpace/propeller/propeller/src/main/resources/libs/tensorflow-linux-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/gitSpace/propeller/propeller/src/main/resources/libs/tensorflow-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/gitSpace/propeller/propeller/src/main/resources/libs/caffe.jar!/" />
+      <root url="jar://$USER_HOME$/gitSpace/propeller/propeller/src/main/resources/libs/tensorflow.jar!/" />
+      <root url="jar://$USER_HOME$/gitSpace/propeller/propeller/src/main/resources/libs/caffe-linux-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/gitSpace/propeller/propeller/src/main/resources/libs/caffe-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

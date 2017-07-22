@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Maven: opencv.skopus:opencv-320:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/opencv/skopus/opencv-320/1.0-SNAPSHOT/opencv-320-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/opencv/skopus/opencv-320/1.0-SNAPSHOT/opencv-320-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/opencv-3.2.0/build/bin" />
+      <root url="file://$USER_HOME$/opencv-3.2.0/build/bin" />
+      <root url="jar://$MAVEN_REPOSITORY$/opencv/skopus/opencv-320/1.0-SNAPSHOT/opencv-320-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/opencv-3.2.0/build/bin" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/opencv-3.2.0/build/bin" recursive="false" type="SOURCES" />
+  </library>
+</component>

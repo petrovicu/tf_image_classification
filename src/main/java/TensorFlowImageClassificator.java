@@ -15,7 +15,7 @@ public class TensorFlowImageClassificator {
 
     public static void main(String[] args) {
 
-        String imageFile = TensorFlowImageClassificator.class.getResource("jack.jpg").getPath();
+        String imageFile = TensorFlowImageClassificator.class.getResource("tensorPics/jack.jpg").getPath();
         classifyImage(imageFile);
         System.out.println("Labeling result: " + labelImage(imageFile, 5));
 

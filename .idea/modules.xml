@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../faceDetector/faceDetector.iml" filepath="$PROJECT_DIR$/../faceDetector/faceDetector.iml" />
+      <module fileurl="file://$USER_HOME$/gitSpace/propeller/propeller/src/main/main.iml" filepath="$USER_HOME$/gitSpace/propeller/propeller/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/tensorJava.iml" filepath="$PROJECT_DIR$/tensorJava.iml" />
     </modules>
   </component>

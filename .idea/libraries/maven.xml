@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="maven">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/gitSpace/propeller/propeller/src/main/resources/maven/javacpp-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/gitSpace/propeller/propeller/src/main/resources/maven/tensorflow-0.8.0-1.2-linux-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/gitSpace/propeller/propeller/src/main/resources/maven/opencv-3.1.0-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/gitSpace/propeller/propeller/src/main/resources/maven/caffe-rc3-1.2-linux-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/gitSpace/propeller/propeller/src/main/resources/maven/tensorflow-0.8.0-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/gitSpace/propeller/propeller/src/main/resources/maven/caffe-rc3-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/gitSpace/propeller/propeller/src/main/resources/maven/opencv-3.1.0-1.2-linux-x86_64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
